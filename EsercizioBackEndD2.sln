@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EsercizioBackEndD2", "EsercizioBackEndD2\EsercizioBackEndD2.csproj", "{0FACBC81-B736-4C0A-A1FA-466E7FEDB315}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FACBC81-B736-4C0A-A1FA-466E7FEDB315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FACBC81-B736-4C0A-A1FA-466E7FEDB315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FACBC81-B736-4C0A-A1FA-466E7FEDB315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FACBC81-B736-4C0A-A1FA-466E7FEDB315}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CACB4CAD-BD05-4DE3-807C-F2F40AECDF7F}
+	EndGlobalSection
+EndGlobal
